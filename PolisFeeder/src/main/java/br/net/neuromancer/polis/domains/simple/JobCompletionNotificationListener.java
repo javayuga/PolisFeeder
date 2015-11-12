@@ -1,4 +1,4 @@
-package br.net.neuromancer.polis.domains;
+package br.net.neuromancer.polis.domains.simple;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

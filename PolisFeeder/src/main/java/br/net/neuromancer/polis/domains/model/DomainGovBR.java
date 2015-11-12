@@ -1,6 +1,10 @@
 package br.net.neuromancer.polis.domains.model;
 
+import org.springframework.data.annotation.Id;
+
 public class DomainGovBR {
+	
+	@Id
 	private String domain;
 	private String document;
 	private String name;

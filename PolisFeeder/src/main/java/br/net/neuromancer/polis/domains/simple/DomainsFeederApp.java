@@ -1,4 +1,4 @@
-package br.net.neuromancer.polis.domains;
+package br.net.neuromancer.polis.domains.simple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

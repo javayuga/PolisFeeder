@@ -1,4 +1,4 @@
-package br.net.neuromancer.polis.domains;
+package br.net.neuromancer.polis.domains.simple;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
